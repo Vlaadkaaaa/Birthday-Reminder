@@ -13,6 +13,8 @@
 		55BEEBDA288EA716001D9950 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55BEEBD8288EA716001D9950 /* Main.storyboard */; };
 		55BEEBDC288EA71E001D9950 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55BEEBDB288EA71E001D9950 /* Assets.xcassets */; };
 		55BEEBDF288EA71E001D9950 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55BEEBDD288EA71E001D9950 /* LaunchScreen.storyboard */; };
+		55BEEBE7288EB4EE001D9950 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BEEBE6288EB4EE001D9950 /* FirstViewController.swift */; };
+		55BEEBE9288EBCEE001D9950 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BEEBE8288EBCEE001D9950 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		55BEEBDB288EA71E001D9950 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55BEEBDE288EA71E001D9950 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55BEEBE0288EA71E001D9950 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55BEEBE6288EB4EE001D9950 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		55BEEBE8288EBCEE001D9950 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +63,9 @@
 				55BEEBD2288EA716001D9950 /* AppDelegate.swift */,
 				55BEEBD4288EA716001D9950 /* SceneDelegate.swift */,
 				55BEEBD6288EA716001D9950 /* ViewController.swift */,
+				55BEEBE6288EB4EE001D9950 /* FirstViewController.swift */,
 				55BEEBD8288EA716001D9950 /* Main.storyboard */,
+				55BEEBE8288EBCEE001D9950 /* SecondViewController.swift */,
 				55BEEBDB288EA71E001D9950 /* Assets.xcassets */,
 				55BEEBDD288EA71E001D9950 /* LaunchScreen.storyboard */,
 				55BEEBE0288EA71E001D9950 /* Info.plist */,
@@ -141,6 +147,8 @@
 				55BEEBD7288EA716001D9950 /* ViewController.swift in Sources */,
 				55BEEBD3288EA716001D9950 /* AppDelegate.swift in Sources */,
 				55BEEBD5288EA716001D9950 /* SceneDelegate.swift in Sources */,
+				55BEEBE9288EBCEE001D9950 /* SecondViewController.swift in Sources */,
+				55BEEBE7288EB4EE001D9950 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
